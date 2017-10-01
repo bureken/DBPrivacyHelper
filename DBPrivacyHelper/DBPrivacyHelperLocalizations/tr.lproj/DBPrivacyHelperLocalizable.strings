@@ -1,0 +1,31 @@
+/*
+ DBPrivacyHelperLocalizable.strings
+ DBPrivacyHelper
+
+ Created by iBo on 10/11/14.
+ Copyright (c) 2014 iBo. All rights reserved.
+*/
+
+"Close" = "Close";
+
+"Location Services" = "Konum Servisler";
+"Photos" = "Fotoğraflar";
+"Camera" = "Kamera";
+"Health" = "Sağlık";
+"HomeKit" = "HomeKit";
+"Motion Activity" = "Hareket Etkinliği";
+"Contacts" = "Kişiler";
+"Notifications" = "Bildirimler";
+"Reminders" = "Hatırlatıcılar";
+"Calendars" = "Takvimler";
+"Microphone" = "Mikrofon";
+"Twitter" = "Twitter";
+"Facebook" = "Facebook";
+
+"Allow access to \"%@\"\nwith these steps:" = "Şu adımlarla \"%@\"\nerişimine izin ver:";
+
+"Open device settings" = "Cihaz ayarlarını aç";
+"Tap on Privacy" = "Tap on Privacy";
+"Tap on \"%@\"" = "Tap on \"%@\"";
+"Allow your application to use \"%@\"" = "Uygulamanızın \"%@\" izin verin";
+"Select the alert style you prefer" = "Tercih ettiğiniz uyarı biçimini seçin";
